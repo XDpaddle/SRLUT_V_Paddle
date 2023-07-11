@@ -19,9 +19,9 @@ It is modified from the original source code of Pytorch implementation(https://g
 We use DIV2K dataset for training and Set5 dataset for testing
 
 ## 2. Testing
-1. The testing image pairs is placed in ./val folder,you can change the image address in line 24 in val_model_V.py
-2、The result image will be put in ./result/V/HR/
-3、python val_model_V.py
+- The testing image pairs is placed in ./val folder,you can change the image address in line 24 in val_model_V.py
+- The result image will be put in ./result/V/HR/
+- python val_model_V.py
 
 
 
